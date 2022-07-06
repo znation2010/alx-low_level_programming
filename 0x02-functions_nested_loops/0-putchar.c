@@ -1,12 +1,12 @@
 #include "holberton.h"
 /**
  * main - Entry block
- * Description: prints holberton on new line
+ * Description: prints putchar on new line
  * Return: 0
  */
 int main(void)
 {
-	char c[10] = "Holberton";
+	char c[10] = "putchar";
 
 	int i = 0;
 
