@@ -1,4 +1,4 @@
-#include "holberton.h"
+#include "main.h"
 /**
  *print_number - print integer.
  *@n: integer.
@@ -8,7 +8,6 @@
 void print_number(int n)
 {
 	unsigned int x;
-
 	x = n;
 	if (n < 0)
 	{
