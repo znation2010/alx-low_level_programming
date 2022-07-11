@@ -1,2 +1,2 @@
-# C is pure fun
+# Siuuu
 **pointers, arrays and strings
